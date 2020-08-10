@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+
+
+.section.section-text-overlay .text-background.text-mega-background-size {
+	font-size: 9vw;
+}
+
+.lesser-padding-bottom{
+	padding-bottom: .5rem;
+}
+
+.list-infos > li.line-height-1-2 {
+	line-height: 1.2em
+}
